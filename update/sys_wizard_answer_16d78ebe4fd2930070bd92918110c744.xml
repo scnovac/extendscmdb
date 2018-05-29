@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Extends CMDB CI</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Extends CMDB CI</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">d8243bf714211300651763392430a4a3</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-29 17:43:06</sys_created_on>
+        <sys_id>16d78ebe4fd2930070bd92918110c744</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Extends CMDB CI</sys_name>
+        <sys_package display_value="Extend CMDB" source="x_snc_extend_cmdb">fb6742be4fd2930070bd92918110c71b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Extend CMDB">fb6742be4fd2930070bd92918110c71b</sys_scope>
+        <sys_update_name>sys_wizard_answer_16d78ebe4fd2930070bd92918110c744</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-29 17:43:06</sys_updated_on>
+        <table/>
+        <target_url>x_snc_extend_cmdb_extends_cmdb_ci.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
