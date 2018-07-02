@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="fiscal_calendar_admin" name="fiscal_calendar_admin">83d664c3930222003706dfa5e57ffb0b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-05-30 10:15:26</sys_created_on>
+        <sys_id>a2fa25c74fda930070bd92918110c70a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>83d664c3930222003706dfa5e57ffb0b</sys_name>
+        <sys_package display_value="Extend CMDB" source="x_snc_extend_cmdb">fb6742be4fd2930070bd92918110c71b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Extend CMDB">fb6742be4fd2930070bd92918110c71b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a2fa25c74fda930070bd92918110c70a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-05-30 10:15:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
