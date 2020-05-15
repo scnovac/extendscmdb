@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_extend_cmdb.prop</name>
+        <read_roles/>
+        <suffix>prop</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>sergiu.novac@snc</sys_created_by>
+        <sys_created_on>2020-05-15 09:14:46</sys_created_on>
+        <sys_id>0b5f606ddbb0d010c8c05214dc961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_extend_cmdb.prop</sys_name>
+        <sys_package display_value="Extend CMDB" source="x_snc_extend_cmdb">fb6742be4fd2930070bd92918110c71b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Extend CMDB">fb6742be4fd2930070bd92918110c71b</sys_scope>
+        <sys_update_name>sys_properties_0b5f606ddbb0d010c8c05214dc961919</sys_update_name>
+        <sys_updated_by>sergiu.novac@snc</sys_updated_by>
+        <sys_updated_on>2020-05-15 09:14:46</sys_updated_on>
+        <type>string</type>
+        <value>w</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=0b5f606ddbb0d010c8c05214dc961919"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Extend CMDB">fb6742be4fd2930070bd92918110c71b</application>
+        <file_path/>
+        <instance_id>e1a32c8ddb5e37008aea21c40596195f</instance_id>
+        <instance_name>demonightlynewyork</instance_name>
+        <name>sys_properties_0b5f606ddbb0d010c8c05214dc961919</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_snc_extend_cmdb.prop</name><read_roles/><suffix>prop</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>sergiu.novac@snc</sys_created_by><sys_created_on>2020-05-15 09:14:46</sys_created_on><sys_id>0b5f606ddbb0d010c8c05214dc961919</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_extend_cmdb.prop</sys_name><sys_package display_value="Extend CMDB" source="x_snc_extend_cmdb">fb6742be4fd2930070bd92918110c71b</sys_package><sys_policy/><sys_scope display_value="Extend CMDB">fb6742be4fd2930070bd92918110c71b</sys_scope><sys_update_name>sys_properties_0b5f606ddbb0d010c8c05214dc961919</sys_update_name><sys_updated_by>sergiu.novac@snc</sys_updated_by><sys_updated_on>2020-05-15 09:14:46</sys_updated_on><type>string</type><value>w</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=0b5f606ddbb0d010c8c05214dc961919"/></record_update>]]></payload>
+        <payload_hash>1181052506</payload_hash>
+        <record_name>x_snc_extend_cmdb.prop</record_name>
+        <reverted_from/>
+        <source>714fac2ddbb0d010c8c05214dc9619c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>sergiu.novac@snc</sys_created_by>
+        <sys_created_on>2020-05-15 09:14:48</sys_created_on>
+        <sys_id>936fec2ddbb0d010c8c05214dc961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172179d5d480000001</sys_recorded_at>
+        <sys_updated_by>sergiu.novac@snc</sys_updated_by>
+        <sys_updated_on>2020-05-15 09:14:48</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>976fec2d1cb0d01064d85aa65dd66e92</update_guid>
+        <update_guid_history>976fec2d1cb0d01064d85aa65dd66e92:1181052506</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sergiu.novac@snc</sys_created_by>
+        <sys_created_on>2020-05-15 09:15:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>2df5ed53907f47789c91485ffff37790</sys_id>
+        <sys_metadata>0b5f606ddbb0d010c8c05214dc961919</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_extend_cmdb.prop</sys_name>
+        <sys_package display_value="Extend CMDB" source="x_snc_extend_cmdb">fb6742be4fd2930070bd92918110c71b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Extend CMDB">fb6742be4fd2930070bd92918110c71b</sys_scope>
+        <sys_scope_delete display_value="">31fc638d22244f66b48b92759b462924</sys_scope_delete>
+        <sys_update_name>sys_properties_0b5f606ddbb0d010c8c05214dc961919</sys_update_name>
+        <sys_update_version display_value="sys_properties_0b5f606ddbb0d010c8c05214dc961919">936fec2ddbb0d010c8c05214dc961993</sys_update_version>
+        <sys_updated_by>sergiu.novac@snc</sys_updated_by>
+        <sys_updated_on>2020-05-15 09:15:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
