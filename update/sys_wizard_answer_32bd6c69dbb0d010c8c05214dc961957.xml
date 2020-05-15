@@ -13,17 +13,17 @@
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-07-02 11:05:09</sys_created_on>
-        <sys_id>3cd2f3254f439f0070bd92918110c73f</sys_id>
+        <sys_created_by>sergiu.novac@snc</sys_created_by>
+        <sys_created_on>2020-05-15 09:07:23</sys_created_on>
+        <sys_id>32bd6c69dbb0d010c8c05214dc961957</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Extend task</sys_name>
         <sys_package display_value="Extend CMDB" source="x_snc_extend_cmdb">fb6742be4fd2930070bd92918110c71b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Extend CMDB">fb6742be4fd2930070bd92918110c71b</sys_scope>
-        <sys_update_name>sys_wizard_answer_3cd2f3254f439f0070bd92918110c73f</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-02 11:05:09</sys_updated_on>
+        <sys_update_name>sys_wizard_answer_32bd6c69dbb0d010c8c05214dc961957</sys_update_name>
+        <sys_updated_by>sergiu.novac@snc</sys_updated_by>
+        <sys_updated_on>2020-05-15 09:07:23</sys_updated_on>
         <table/>
         <target_url>x_snc_extend_cmdb_extend_task.do</target_url>
         <type>1</type>

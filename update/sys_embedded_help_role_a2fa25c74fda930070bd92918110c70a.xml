@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_embedded_help_role">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>10</order>
-        <role display_value="fiscal_calendar_admin" name="fiscal_calendar_admin">83d664c3930222003706dfa5e57ffb0b</role>
+        <role display_value="">83d664c3930222003706dfa5e57ffb0b</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-05-30 10:15:26</sys_created_on>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_db_object">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
+        <caller_access/>
         <client_scripts_access>true</client_scripts_access>
         <configuration_access>true</configuration_access>
         <create_access>false</create_access>
@@ -17,7 +17,8 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">48e3f37714211300651763392430a4cb</super_class>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">b5e4f785db301010c8c05214dc961906</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

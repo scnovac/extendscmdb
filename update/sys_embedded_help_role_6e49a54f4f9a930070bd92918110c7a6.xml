@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_embedded_help_role">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="release_v2_user" name="release_v2_user">0e31ded20a0a2c397cb39d0fb74bf3b0</role>
+        <role display_value="">0e31ded20a0a2c397cb39d0fb74bf3b0</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-05-30 10:08:03</sys_created_on>
