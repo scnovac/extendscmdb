@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="">6cf377870b3003005e93ec3393673a2c</role>
+        <role display_value="business_planner" name="business_planner">6cf377870b3003005e93ec3393673a2c</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-05-30 10:11:48</sys_created_on>

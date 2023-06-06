@@ -11,7 +11,6 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-07-02 11:05:46</sys_created_on>
-            <sys_id>87bd6c69dbb0d010c8c05214dc961979</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Scoped Column</sys_name>
             <sys_package display_value="Extend CMDB" source="x_snc_extend_cmdb">fb6742be4fd2930070bd92918110c71b</sys_package>

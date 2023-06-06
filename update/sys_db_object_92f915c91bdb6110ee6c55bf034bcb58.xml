@@ -9,7 +9,6 @@
         <create_access>false</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Extend task</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -18,19 +17,17 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Task" name="task">b5e4f785db301010c8c05214dc961906</super_class>
-        <sys_class_code/>
+        <super_class display_value="Task" name="task">211d256b1b210110ee6c55bf034bcbcf</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-02 11:05:09</sys_created_on>
-        <sys_id>8ba2bfe14f439f0070bd92918110c7aa</sys_id>
+        <sys_id>92f915c91bdb6110ee6c55bf034bcb58</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Extend task</sys_name>
         <sys_package display_value="Extend CMDB" source="x_snc_extend_cmdb">fb6742be4fd2930070bd92918110c71b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Extend CMDB">fb6742be4fd2930070bd92918110c71b</sys_scope>
-        <sys_update_name>sys_db_object_8ba2bfe14f439f0070bd92918110c7aa</sys_update_name>
+        <sys_update_name>sys_db_object_92f915c91bdb6110ee6c55bf034bcb58</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-07-02 11:07:22</sys_updated_on>
         <update_access>false</update_access>
