@@ -3,6 +3,7 @@
         <element label="Scoped Column" max_length="40" name="scoped_column" type="string"/>
         <element label="2ndNew Scoped Column" max_length="40" name="u_2ndnew_scoped_column" type="string"/>
         <element label="2nd New Scoped column" max_length="40" name="u_2nd_new_scoped_column" type="string"/>
+        <element label="3rdScoped column" max_length="40" name="u_3rdscoped_column" type="string"/>
         <element label="New Scoped column" max_length="40" name="x_snc_extend_cmdb_scoped_column" type="string"/>
     </element>
 </database>
