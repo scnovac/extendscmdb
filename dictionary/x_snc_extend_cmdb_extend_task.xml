@@ -5,6 +5,7 @@
         <element label="2nd New Scoped column" max_length="40" name="u_2nd_new_scoped_column" type="string"/>
         <element label="3rdScoped column" max_length="40" name="u_3rdscoped_column" type="string"/>
         <element label="4thScoped Column" max_length="40" name="u_4thscoped_column" type="string"/>
+        <element label="5th Scoped Column" max_length="40" name="u_5th_scoped_column" type="string"/>
         <element label="New Scoped column" max_length="40" name="x_snc_extend_cmdb_scoped_column" type="string"/>
     </element>
 </database>
