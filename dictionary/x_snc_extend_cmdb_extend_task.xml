@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="92f915c91bdb6110ee6c55bf034bcb58" extends="task" label="Extend task" max_length="40" name="x_snc_extend_cmdb_extend_task" type="collection">
-        <element label="Scoped Column" max_length="40" name="scoped_column" type="string"/>
-        <element label="2ndNew Scoped Column" max_length="40" name="u_2ndnew_scoped_column" type="string"/>
-        <element label="2nd New Scoped column" max_length="40" name="u_2nd_new_scoped_column" type="string"/>
-        <element label="3rdScoped column" max_length="40" name="u_3rdscoped_column" type="string"/>
-        <element label="4thScoped Column" max_length="40" name="u_4thscoped_column" type="string"/>
-        <element label="5th Scoped Column" max_length="40" name="u_5th_scoped_column" type="string"/>
-        <element label="6th Scoped Column" max_length="40" name="u_6th_scoped_column" type="string"/>
-        <element label="New Scoped column u2" max_length="40" name="x_snc_extend_cmdb_scoped_column" type="string"/>
+        <element label="New Scoped column u3" max_length="40" name="x_snc_extend_cmdb_scoped_column" type="string"/>
     </element>
 </database>
