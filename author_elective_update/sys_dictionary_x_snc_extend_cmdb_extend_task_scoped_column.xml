@@ -177,6 +177,7 @@
         <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
         <sys_id>0a65c702b1af44c6937afcd32f60e401</sys_id>
         <sys_metadata>f2f915c91bdb6110ee6c55bf034bcbe3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Scoped Column</sys_name>
         <sys_package display_value="Extend CMDB" source="x_snc_extend_cmdb">fb6742be4fd2930070bd92918110c71b</sys_package>
         <sys_parent display_value="Extend task">92f915c91bdb6110ee6c55bf034bcb58</sys_parent>
@@ -185,5 +186,7 @@
         <sys_scope_delete display_value="">31fc638d22244f66b48b92759b462924</sys_scope_delete>
         <sys_update_name>sys_dictionary_x_snc_extend_cmdb_extend_task_scoped_column</sys_update_name>
         <sys_update_version display_value="sys_dictionary_x_snc_extend_cmdb_extend_task_scoped_column">297b914d1bdb6110ee6c55bf034bcb07</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 16:25:51</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

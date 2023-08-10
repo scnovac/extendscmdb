@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>10</order>
-        <role display_value="">2e5c52617f0000010d79596aed437a47</role>
+        <role display_value="rm_release_admin" name="rm_release_admin">2e5c52617f0000010d79596aed437a47</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-05-30 10:08:03</sys_created_on>

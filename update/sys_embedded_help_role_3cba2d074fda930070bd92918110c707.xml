@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="">8cd72e3193f3220064f572edb67ffb42</role>
+        <role display_value="pps_resource" name="pps_resource">8cd72e3193f3220064f572edb67ffb42</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-05-30 10:14:13</sys_created_on>
